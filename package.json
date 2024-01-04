@@ -22,6 +22,7 @@
     "@storybook/vue3": "^7.6.7",
     "@storybook/vue3-vite": "^7.6.7",
     "@vitejs/plugin-vue": "^5.0.2",
+    "chromatic": "^10.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "storybook": "^7.6.7",
